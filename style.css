@@ -1,0 +1,29 @@
+body {
+    background-color: rgba(128, 128, 128, 0.247);
+}
+
+
+.card {
+    box-shadow: 2px 2px 5px 5px rgba(128, 128, 128, 0.158);
+}
+
+
+.unic {
+    margin-top: 50px;
+}
+
+
+.unic2{
+    margin-bottom: -20px!important;
+}
+
+.punct {
+    left: -16px;
+    bottom: -50px;
+}
+
+
+.dot-shadow {
+    box-shadow: 0px 3px 10px 2px grey;
+}
+
